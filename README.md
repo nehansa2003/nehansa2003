@@ -1,9 +1,9 @@
-# Hi there 👋, I'm [Nehansa Wijewardhana]
+# Hi there 👋, I'm Nehansa Wijewardhana
 
 🎓 I'm currently studying *BSc Hons in Data Science* at the Faculty of Computing, Sabaragamuwa University of Sri Lanka.  
 💻 Passionate about *Data Science, AI, and Full Stack Development*.  
 🌱 I’m currently learning *React, Django, and Machine Learning*.  
-📫 Reach me at: [nehansawijewardhana@gmail.com]  
+📫 Reach me at: nehansawijewardhana@gmail.com  
 
 ---
 
