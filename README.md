@@ -15,16 +15,27 @@
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=nehansa2003&theme=radical&row=1&column=6)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nehansa2003&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nehansa2003&show_icons=true&theme=radical&count_private=true)  
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehansa2003&layout=compact&theme=radical)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehansa2003&show_icons=true&theme=radical&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehansa2003&layout=compact&theme=radical"/>
+
+</p>
 
 ---
+
+## 🔥 GitHub Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nehansa2003&theme=radical"/>
+</p>
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehansa-wijewardhana-638649337/)  
