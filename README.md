@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Skills
-- *Languages*: Python, Java, JavaScript, SQL  
+- *Languages*: Python, Java, JavaScript, SQL,PHP 
 - *Frameworks*: Django, React  
 - *Tools*: Git, MySQL, Jupyter Notebook  
 
@@ -23,11 +23,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehansa2003&show_icons=true&theme=radical&count_private=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehansa2003&layout=compact&theme=radical"/>
-
 </p>
 
 ---
